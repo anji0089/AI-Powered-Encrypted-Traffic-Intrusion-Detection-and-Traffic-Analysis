@@ -83,10 +83,10 @@ cd AI-Powered-Encrypted-Traffic-Intrusion-Detection-and-Traffic-Analysis
 pip install -r requirements.txt
 ```
 
-4. Run Jupyter Notebook:
+4. Run the Python file:
 
 ```bash
-jupyter notebook
+python ids_code.py
 ```
 
 5. Open the notebook file and run all cells step by step.

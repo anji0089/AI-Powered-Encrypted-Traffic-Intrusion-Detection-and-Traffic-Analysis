@@ -92,10 +92,11 @@ jupyter notebook
 5. Open the notebook file and run all cells step by step.
 
 ## Expected Output
+
 The system predicts whether the given encrypted traffic is normal or suspicious based on traffic flow features.
 
 Example:
-```
+
+```text
 Input: Encrypted traffic flow features
-Output: Normal Traffic / Intrusion Detected
-```
+Output: Normal Traffic / Suspicious Traffic Detected
